@@ -14,7 +14,7 @@ A web-based Employee Management System built using Spring Boot and JPA.
 ![Login Page](Assets/login.png)
 
 ### 📝 Register Page
-![Register Page](Assets/register.png)
+![Register Page](Assets/sign-up.png)
 
 ### 📊 Dashboard
 ![Dashboard](Assets/dashboard.png)
