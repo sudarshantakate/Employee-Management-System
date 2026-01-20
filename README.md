@@ -3,7 +3,7 @@
 A web-based Employee Management System built using Spring Boot and JPA.
 
 ## 🛠️ Tech Stack
-- Spring Boot
+- Spring MVC
 - Spring Data JPA
 - SQL Database
 - JSP / HTML / CSS
